@@ -24,7 +24,7 @@
     "@types/request": "2.48.1",
     "bignumber.js": "^8.1.1",
     "bintrees": "^1.0.1",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "ws": "^7.0.0"
   },
   "description": "Official client for the Coinbase Pro API",
